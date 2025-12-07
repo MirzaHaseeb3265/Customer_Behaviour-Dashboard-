@@ -49,6 +49,10 @@ An interactive dashboard was built using **Power BI**, visualizing:
 - Subscription behavior
 - Shipping preferences
 
+## 📊 Dashboard Snapshot
+
+![Dashboard Preview](https://github.com/MirzaHaseeb3265/Customer_Behaviour-Dashboard-/blob/edda29d24a8e48f76c1aed87e27fa5708c0dc2fd/Screenshot%202025-12-07%20175805.png)
+
 ---
 
 ## 💡 Business Recommendations
